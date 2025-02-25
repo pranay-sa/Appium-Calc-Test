@@ -1,2 +1,2 @@
 # Appium-Calc-Test
-A Simple Appium Mobile Calculator app tester
+Follow the instructions below to test a simple Calculator mobile app using appium 
