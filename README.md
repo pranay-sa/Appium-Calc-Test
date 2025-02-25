@@ -20,7 +20,6 @@ _npm install -g appium_
 4)	Installing Appium Python client
 Command :
 _pip install Appium-Python-Client selenium_
-![image](https://github.com/user-attachments/assets/5db4daaa-391a-4107-b785-1b664909a464)
  
 5) Install Latest Version of Node js  
 Starting Android Emulator :
